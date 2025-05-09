@@ -1,2 +1,2 @@
 # Human-Detection-System
-A Multimodal Human Detection System using SWIN transformer.
+A Multimodal Human Detection System using Detection Transformer.
